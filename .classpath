@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/asm.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/jta.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="D:/SHARE in this/hibernatejar/xerces-2.6.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

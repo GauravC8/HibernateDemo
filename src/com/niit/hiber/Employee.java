@@ -5,13 +5,13 @@ public class Employee {
 	private String lastName;
 	private int salary;
 
-	public Employee(int id, String firstName, String lastName, int salary) {
+/*	public Employee(int id, String firstName, String lastName, int salary) {
 		super();
 		this.id = id;
 		this.firstName = firstName;
 		this.lastName = lastName;
 		this.salary = salary;
-	}
+	}*/
 
 	public int getId() {
 		return id;
